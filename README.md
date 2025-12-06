@@ -168,7 +168,3 @@ This notebook demonstrates my understanding of CNNs, deep learning workflows, an
 
 This project allowed me to strengthen my foundation in deep learning by building, training, and evaluating a CNN without relying on pre-trained models.  
 It reflects my ability to implement clean, understandable, and reproducible machine learning pipelines — something I aim to apply and improve further in real-world AI projects.
-<<<<<<< HEAD
-=======
-
->>>>>>> f476148d4d7a9513fe730104daa42c952b7efa36
